@@ -15,6 +15,10 @@ In this project for PlanMyTrip app, I added the weather description to the weath
 ## `Summary`
 
 
+First, I generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and performed an API call with the OpenWeatherMap. In addition to the city weather data, I gathered in the current weather description for each city. <br/>
+![pic1]()
+
+
 ## `Challenge Overview`
 
 
