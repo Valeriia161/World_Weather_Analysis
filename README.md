@@ -29,7 +29,8 @@ After that I created a Customer Travel Destinations Map.
 Next I created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. And finally I created a marker layer map with a pop-up marker for each city on the itinerary.
 
 
-![]()
+![](https://user-images.githubusercontent.com/110998103/190936045-0f231aaf-8340-4644-9c8a-415c00550a30.png)
+
 
 
 
